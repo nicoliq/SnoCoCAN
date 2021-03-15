@@ -1,0 +1,163 @@
+====== Voting, Politics & Representatives ======
+
+----
+
+====== Voting =======
+
+**Voting Rights Laws and Executive Orders**
+
+[[https://www.justice.gov/crt/section-2-voting-rights-act|Section 2: Voting Rights Act]]
+    * Section 2 of the Voting Rights Act of 1965 prohibits voting practices or procedures that discriminate on the basis of race, color, or membership in one of the language minority groups identified in Section 4(f)(2) of the Act. 
+    * See [[https://www.justice.gov/crt/section-4-voting-rights-act|Section 4: Voting Rights Act - historical document only]]
+
+[[https://www.justice.gov/crt/national-voter-registration-act-1993-nvra|National Voter Registration Act of 1993 (Motor Voter Law)]]
+    * "The National Voter Registration Act of 1993 (also known as the “NVRA” or “motor voter law”) sets forth certain voter registration requirements with respect to elections for federal office. Section 5 of the NVRA requires that States offer voter registration opportunities at State motor vehicle agencies."
+
+[[https://www.digitalarchives.wa.gov/GovernorGregoire/execorders/eo_07-04.pdf|Gov. Christine Gregoire - Executive Order 07-04]]
+  * WHEREAS, Washington began offering voter registration services through the state Department of Licensing in 1992;
+  * WHEREAS, the United States Congress passed the National Voter Registration Act of 1993 (NVRA) requiring states to, among other things, offer voter registration opportunities at state offices that provide public assistance and state offices that provide state-funded programs primarily engaged in serving persons with disabilities;
+  * WHEREAS, the Washington State legislature subsequently enacted statutes designed to implement the public agency provisions of the NVRA which are codified at RCW 29A.08.310 through RCW 29A.08.360; and
+  * WHEREAS, the right to vote is fundamental, and it is a primary duty of government to make the opportunity to register and assistance with registering to vote available to all eligible citizens.
+  * NOW, THEREFORE, I, Christine O. Gregoire, Governor of the state of Washington, designate the Department of Social and Health Services (DSHS) as a voter registration assistance agency as required by the NVRA and state law. 
+
+[[https://www.sos.wa.gov/elections/voters/felons-and-voting-rights.aspx|Secretary of State - Felons and Voting Rights]]
+    * If you were convicted of a felony in a Washington State court, your right to vote is restored automatically once you are no longer under the authority of DOC (in prison or on community custody). If you have questions about your status with DOC, call at (800) 430-9674.
+    * If you were convicted of a felony in another state or in federal court, your right to vote is restored automatically as long as you are not currently incarcerated for that felony.
+    * You do not lose the right to vote for a misdemeanor conviction or a conviction in juvenile court.
+    * You do not need a certificate of discharge (COD) to have your voting rights restored.
+    * You are not required to completely pay off your fines, restitution, or other legal financial obligations (LFOs) before you register to vote. However, your voting rights can be revoked if the sentencing court determines that you have failed to comply with the terms of your legal financial obligations.
+    * Only people in jail, prison, or on community custody under Department of Corrections (DOC) authority for a felony conviction are not eligible to vote.
+    * Once your right to vote is restored, you must register to vote if you want to vote. If you were previously registered to vote, you must re-register to vote. 
+
+[[https://www.aclu.org/know-your-rights/voting-rights/#i-speak-english-less-than-very-well|ACLU - Limited English Proficiency: Voting Rights]]\\
+[[https://www.sos.wa.gov/_assets/elections/votingrightscountyinfo.pdf|Secretary of State - Voting Rights Act (VRA) & Language Accommodation]]
+
+[[https://www.aclu.org/know-your-rights/voting-rights/#i-am-a-voter-with-a-disability|ACLU - Voters with Disabilities: Accommodations]]\\
+[[https://www.sos.wa.gov/elections/voters/voters-with-disabilities.aspx|Secretary of State - Voters with Disabilities & Adults with Disabilities Act (ADA)]]
+
+[[https://www.aclu.org/know-your-rights/voting-rights/#someone-is-interfering-with-my-right-to-vote|ACLU - Voter Intimidation & Interference]]
+
+[[https://www.sos.wa.gov/elections/research/election-results-and-voters-pamphlets.aspx|Secretary of State: View Current and Past Election Results & Pamphlets]]\\
+[[https://snohomishcountywa.gov/5737/Get-Current-and-Past-Election-Results-an|Snohomish County: View Current & Past Election Results & Statistics]]
+
+**Voting Registration & Information**
+
+[[https://www.sos.wa.gov/elections/voters/|Secretary of State - Information for Voters]]
+    * Includes information about Voter Eligibility, Future Voters, Military or Overseas Voters, Voters with Disabilities, Felons and Voting Rights, Voters Away at College, New Washington Residents, Seasonal Residents (Snowbirds)
+    * Includes information about Current Election Info, Top 2 Primary, FAQ about Elections in WA State, Electoral College, Voting by Mail, Current Federal & State Elected Officials, Descriptions of Elected Offices
+    * Includes information about Voter Registration, various Voter forms, complaint forms
+
+[[https://www.sos.wa.gov/elections/dates-and-deadlines.aspx|Dates & Deadlines]]
+
+[[https://voter.votewa.gov/WhereToVote.aspx|Register to Vote Online]]
+    * //To be eligible: You must also be a citizen of the United States, legal resident of Washington State, 18 years old, not under the authority of the DOC, and not disqualified due to a court order.//
+    * Check registration status
+    * Update registration address (updates precincts, representatives, etc.)
+
+[[https://www.sos.wa.gov/elections/initiatives/|Initiatives & Referenda]]
+    * Includes instructions, guides, handbooks, and forms on how to file initiatives and referendas that may appear on voter ballots
+
+[[https://snohomishcountywa.gov/224/Elections-Voter-Registration|Snohomish County Elections & Voter Registration]]
+    * For information about current and upcoming elections, types of voter registration, filing for candidacy, adding measures to ballots, learning about initiatives and referenda, and more
+
+**Voting Guides by Political Preference - Updated Periodically**
+
+[[https://progressivevotersguide.com/|Progressive Voters Guide]]
+    * Powered by [[https://fusewashington.org/|Fuse WA]]
+    * "Welcome to the Progressive Voters Guide! Since 2008, we've compiled candidate research and endorsements to help you cast an informed vote."
+
+[[https://shiftwa.org/votersguide/|Conservative Voters Guide]]
+    * From [[https://shiftwa.org/|Shift WA]] 
+    * "Shift seeks to shift the political debate in Washington State. Compared to our West Coast neighbors, we’re a politically balanced place – but left-wing silliness still abounds. [...] We keep a sharp eye on what’s happening in Olympia and in local governments around the state. When they try to pull something stupid, Shift calls them on it. We exist to inform, cajole, and uncover, all with a dose of fun."
+
+----
+
+====== Representatives ======
+
+[[https://snohomishcountywa.gov/3840/Your-Elected-Officials|Your Snohomish County Elected Officials]]
+"Snohomish County has thirty-six independently elected officials. These officials and their staff all serve the public in a unique way and are available to help you with your needs."
+    * 15 Superior Court judges
+    * 4 District Court judges
+    * 5 Court commissioners
+    * 5 Snohomish County Councilmembers
+    * 1 Executive
+    * 1 Sheriff
+    * 1 Prosecuting Attorney
+    * 1 Auditor
+    * 1 Assessor
+    * 1 Clerk
+    * 1 Treasurer 
+
+[[https://snoco-gis.maps.arcgis.com/apps/MapSeries/index.html?appid=d63472828c594379af70556c3d03325f#|Find Your District: Address Search]]
+[[https://voter.votewa.gov/WhereToVote.aspx|Find Your Elected Officials: VoteWA]]
+
+##Pending city information##
+
+----
+
+====== Political Parties of Snohomish County ======
+
+==== Green Party of Snohomish County ====
+"The Green Party of Snohomish County operates as a local chapter of the Washington State Green Party. We are an independent political party that is connected to American social movements, and is part of a global Green movement that shares key values, including our Four Pillars: Peace and Non-Violence, Ecological Wisdom, Grassroots Democracy, and Social Justice, and our Ten Key Values."
+  * [[https://snogreens.wordpress.com/|Green Party of Snohomish County]]
+  * [[https://snogreens.wordpress.com/contact/|Contact Us]]
+  * Email: snogreens@gmail.com OR greenpartysc@gmail.com
+  * [[https://www.facebook.com/GPSnoCo|Green Party of Snohomish County on Facebook]]
+
+==== Snohomish County Democrats ====
+"The Snohomish County Democratic Central Committee is the local Democratic party organization for Snohomish County, Washington. It serves as a sibling organization to the seven Legislative Districts that are partially or completely within the county boundaries. The SCDCC helps to coordinate efforts of these organizations and help elect Democrats within our county, state, and nation."
+  * [[http://snocodems.org/|Snohomish County Democrats]]
+  * [[http://snocodems.org/get-in-touch/|Contact Us]]
+  * [[https://www.facebook.com/SCDCC/|Snohomish County Democrats on Facebook]]
+  * [[https://twitter.com/sno_co_dems|Snohomish County Democrats on Twitter]]
+
+==== Snohomish County Democratic Socialists of America ====
+"The Snohomish County DSA is a chapter of the Democratic Socialists of America. We were previously known as the Everett DSA. We serve the majority of Snohomish County and seek to establish a democratic socialist presence throughout the area. The Snohomish County Democratic Socialists of America seeks to facilitate the transition to a truly democratic and socialist society, one in which the means of production are democratically and socially controlled." \\
+    * [[https://www.snocodsa.org/|Snohomish County Democratic Socialists of America]] \\
+    * Email: info@snocodsa.org
+    * [[https://www.facebook.com/DSAEverett/|Snohomish County Democratic Socialists of America on Facebook]] \\
+    * [[https://twitter.com/DSASnoCo|Snohomish County Democratic Socialists of America on Twitter]] \\  
+
+==== Snohomish County Indivisible ====
+"Snohomish County Indivisible is part of a national grassroots movement working to elect progressive leaders, realize bold progressive policies, and build our democracy."
+
+"As a group, we stand with Black Lives Matter and fight at all times for racial justice and immigrant rights.  We strive to be inclusive and welcoming of others especially from marginalized communities.  We fight for a more just and equitable society.  Our group is comprised of members residing in the 21st, 32nd, 38th, 39th, and 44th Washington State Legislative Districts and Congressional Districts 1 and 2."
+    * [[https://www.snocoindivisible.org/|SnoCo Indivisible]]
+    * [[https://www.snocoindivisible.org/contact-us|Contact Us]] 
+    * [[https://www.facebook.com/groups/snocoindivisible/|SnoCo Indivisible on Facebook]]
+    * [[http://www.twitter.com/snoco_indiv|SnoCo Indivisible on Twitter]]
+    * [[https://www.instagram.com/snocoindivisible/|SnoCo Indivisible on Instagram]]
+
+==== Snohomish County Libertarian Party ====
+"Join us in opposing the initiation of force against people and standing for individual Liberty!"
+    * [[https://www.facebook.com/SnoCoLP/?ref=page_internal|SnoCo Libertarian Party on Facebook]]
+    * Email: chair@snocolp.org
+    * [[https://twitter.com/snocolp|SnoCo Libertarian Party on Facebook]]
+
+==== Snohomish County Republican Party ====
+"The Snohomish County Republican Party reaffirms the words of our founding fathers that we are one nation under God, dedicated to preserving the integrity of the principles in the Declaration of Independence and U.S. Constitution.
+
+"Republicans believe good government is based on individual rights; each person’s ability, dignity, freedom, right of conscience and responsibility must be honored and recognized. The role of the traditional family as the basic unit of our community must be respected, protected, and nurtured. We believe free enterprise, private property rights, and encouragement of individual incentive are fundamental to our free society."
+    * [[https://snocogop.org/|Snohomish County Republican Party (SnoCo GOP)]]
+    * [[https://snocogop.org/contact/|Contact Us]]
+    * Email: chair@snocogop.org
+    * [[https://www.facebook.com/snohomishcountyrepublicanparty/|SnoCo GOP on Facebook]]
+    * [[https://twitter.com/snocogop|SnoCo GOP on Twitter]]
+    * [[https://www.instagram.com/snocogop/|SnoCo GOP on Instagram]]
+
+==== Snohomish Ebony PAC ====
+"The Snohomish Ebony PAC (SEPAC) exists to increase the representation of African Americans in elected positions and to hold all elected officials accountable to our community, regardless of political party affiliation."
+  * [[https://www.snoebonypac.com/|Snohomish Ebony PAC]]
+  * [[https://www.snoebonypac.com/contact|Contact Us]]
+  * [[https://www.facebook.com/111611637075299|SnoEbonyPAC on Facebook]]
+
+=== Information on Running for Office ===
+
+[[https://snohomishcountywa.gov/5729/File-to-Become-a-Candidate|Snohomish County: File to Become a Candidate]]
+
+[[https://snohomishcountywa.gov/DocumentCenter/View/50850/2021-Candidate-Guide?bidId=|Snohomish County Elections: How to Run for Office Candidate Guide 2021]]
+
+[[https://www.sos.wa.gov/elections/candidates/|Secretary of State: Information for Candidates & Campaigns]]
+    * The Office of the Secretary of State files and certifies the following offices: federal, statewide, and multi-county judicial and legislative districts.
+
+[[https://www.sos.wa.gov/_assets/elections/candidates/statecandidatesguide2021.pdf|State Elections: Candidates Guide 2021]]

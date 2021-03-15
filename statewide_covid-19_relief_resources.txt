@@ -1,0 +1,249 @@
+====== COVID-19 Relief Resources ======
+
+[[statewide_covid-19_relief_resources#general news, health & safety|General News, Health & Safety]]
+
+[[statewide_covid-19_relief_resources#financial|Financial]]
+
+[[statewide_covid-19_relief_resources#additional government relief|Additional Government Relief]]
+
+[[statewide_covid-19_relief_resources#housing|Housing]]
+
+[[statewide_covid-19_relief_resources#utilities|Utilities]]
+
+[[statewide_covid-19_relief_resources#small business loans & grants|Small Business Loans & Grants]]
+
+[[statewide_covid-19_relief_resources#resource databases|Resource Databases]]
+
+----
+
+=== GENERAL NEWS, HEALTH & SAFETY ===
+
+Snohomish Health District: [[https://www.snohd.org/564/COVID-Vaccine-Info|COVID-19 Vaccination Information]]
+    * Call 425-339-5278 for general questions, information, registration, and language assistance
+    * Find out your eligibility
+    * Find your [[https://form.findyourphasewa.org/210118771253954|phase]] 
+    * [[https://snohomish-county-coronavirus-response-snoco-gis.hub.arcgis.com/pages/covid-19-vaccine|See also:]] At this time, Phases 1a and 1b1 are being vaccinated, which includes: 
+        * Workers in health care settings 
+        * High-risk first responders 
+        * Residents and staff of nursing homes, assisted living facilities, and other community-based, congregate living settings where most individuals over 65 years of age are receiving care, supervision, or assistance
+        * All people 65 years or older 
+        * People 50 years or older who live in multigenerational households (2 or more generations)* 
+            *Example: An older adult who cannot live alone and is being cared for by a relative or in-home caregiver, or an older adult who shares the home with a grandchild. 
+        * K-12 educators and child care workers
+    * //If you do not fall within the above categories, you will be eligible in a future phase. We’ll continue to update this site with information on who is eligible for vaccination.// 
+
+[[https://www.governor.wa.gov/issues/issues/covid-19-resources/covid-19-reopening-guidance-businesses-and-workers|COVID-19 Reopening Guidance for Businesses and Workers]]
+    * Also see [[https://www.governor.wa.gov/sites/default/files/HealthyWashington.pdf|Healthy Washington - Roadmap to Recovery]]
+    * Also reference [[https://www.governor.wa.gov/sites/default/files/HealthyWashingtonPhasedChart.pdf|Healthy Washington - Phased Chart]]
+    * [[https://www.governor.wa.gov/issues/issues/covid-19-resources/covid-19-translations|Information in multiple languages:]] Amharic (ኣማርኛ)  |  Arabic ( العربیة )  |  Burmese (ြမန်မာစ)  |  Chuukese (Chuuk)  |  Farsi ( فارسی )  |  French (Français)  |  German (Deutsch)  |  Hindi (हिन्दी)  |  Hmong (Lus Hmoob)  |  Japanese (日本語)  |  Karen (ကည ီ ကျိ)  |  Khmer (ខ្មែរ)  |  Korean (한국어)  |  Lao (ພາສາລາວ)  |  Marshallese (Kajin Majōl)  |  Mixteco (Tu’un Savi)  |  Nepali (नेपाली)  |  Oromo (Afaan Oromoo)  |  Portuguese (Português)  |  Punjabi (ਪੰਜਾਬੀ)  |  Romanian (Limba română)  |  Russian (русский язык)  |  Samoan (Gagana Samoa)  |  Simplified Chinese (简体中文)  |  Somali (Af-Soomaali)  |  Spanish (Español)  |  Swahili (Kiswahili)  |  Tagalog (Tagalog)  |  Tamil (தமிழ்‎)  |  Telugu (తెలుగు‎)  |  Thai (ภาษาไทย)  |  Tigrinya (ትግርኛ)  |  Traditional Chinese (繁體中文)  |  Ukrainian (українська мова)  |  Urdu (ارُدُو)  |  Vietnamese (Tiếng Việt)
+
+[[https://www.doh.wa.gov/Portals/1/Documents/1600/coronavirus/BHG-COVID19-FamilyToolbox.pdf?=ee430|Behavioral Health Toolbox for Families]]
+
+[[https://waportal.org/partners/home/WaListens|WA Listens]]
+    * Call 833-681-0211 (TTY users: dial 711 and then 833-681-0211, or use relay service of choice)
+    * Anyone can call - this is a statewide support program that has been implemented due to the impacts of COVID-19
+
+=== FINANCIAL ===
+
+**Government Benefits for Laid-Off Workers**
+
+Employment Security Division (ESD): [[https://www.esd.wa.gov/unemployment|Unemployment]]
+    * [[https://www.esd.wa.gov/newsroom/covid-19|COVID-19 Expanded Benefits]]
+    * [[https://unemploymentlawproject.org/|Denied Unemployment Benefits?: Unemployment Law Group]]
+
+**Government Benefits for Sick Workers**
+
+[[https://paidleave.wa.gov/|WA Paid Family & Medical Leave Act benefits:]] 
+    * For workers temporarily incapacitated (not due to work-related illness/injury) or needing to care for incapacitated family members
+
+[[https://lni.wa.gov/claims/for-workers/file-a-claim/|Labor & Industries:]] 
+    * Paid Sick Leave & Worker's Compensation for workers hurt/made ill on the job
+    * [[https://www.lni.wa.gov/agency/outreach/novel-coronavirus-outbreak-covid-19-resources|L&I COVID-19 Resources]]
+    * Labor & Industries: [[https://lni.wa.gov/agency/outreach/paid-sick-leave-and-coronavirus-covid-19-common-questions|Questions About Paid Sick Leave and Coronavirus (COVID-19)]]; [[https://lni.wa.gov/agency/outreach/workers-compensation-coverage-and-coronavirus-covid-19-common-questions: Workers Compensation Coverage and Coronavirus (COVID-19) Common Questions]]
+    * [[https://kingcounty.gov/~/media/Council/documents/2020/WokersComp-COVID-3,-d-,16,-d-,20.ashx?la=en|How to apply for Worker's Comp in WA State due to contact with someone who has COVID-19, or exposure to COVID-19, while on the job]]
+
+**Non-Profit Assistance for Laid-Off Workers**
+
+[[https://www.restaurantworkerscf.org/covid19faq|Restaurant Workers Community Foundation:]] 
+    * COVID-19 Relief Grant
+
+[[https://big-table.com/refer/|Big Table:]] **WAITLIST**
+    * COVID-19 Restaurant Worker Relief 
+    * By referral only - from coworker or manager - Greater Seattle, Greater Spokane
+
+[[https://coregives.org/apply/|CORE (Children of Restaurant Employees):]] 
+    * COVID-19 Relief Fund
+
+[[https://airtable.com/shr4d9x0OwCFCkCLn|James Beard Foundation:]] - From the site: //"We are working on application materials at this time and will send out information when it is ready."// 
+    * COVID-19 Relief Fund for Restaurant Workers - fill out form at link above
+
+[[https://rocunited.org/relief/?ceid=8648&emci=81616fb5-a668-ea11-a94c-00155d03b5dd&emdi=a71743ac-ab68-ea11-a94c-00155d03b5dd|ROC United:]] **PAUSED**
+    * COVID-19 Grant for Restaurant Workers
+
+[[https://ofwemergencyfund.org/|One Fair Wage:]] **WAITLIST**
+    * COVID-19 Emergency Fund
+
+**General Financial Assistance**
+
+[[https://dfi.wa.gov/coronavirus/financial-resources|WA State Department of Financial Institutions:]] 
+    * Financial Resources for Washington Residents Impacted by COVID-19 
+
+IRS Taxpayer Relief: [[https://www.irs.gov/coronavirus|Economic Impact Payments]]
+    * If you didn’t get any payments or got less than the full amounts, you may qualify for the Recovery Rebate Credit and must file a 2020 tax return to claim the credit even if you don’t normally file.
+
+[[https://childcareawarewa.org/families/|Child Care:]] Alternatives when child care facilities close due to COVID-19
+
+=== ADDITIONAL GOVERNMENT RELIEF ===
+
+[[https://k12wa.maps.arcgis.com/apps/opsdashboard/index.html#/af63ab4c79664accafdd2373c23df657|School Meals for K-12 School Children during COVID-19]]
+
+[[https://www.dshs.wa.gov/esa/community-services-offices/pandemic-ebt-p-ebt|Pandemic EBT (P-EBT)]]
+  * Updated for 2020-2021 school year
+  * Children are eligible for P-EBT benefits if:
+  * Their school is closed or has reduced in-person attendance hours.
+  * They are eligible for free or reduced-price school meals.
+  * The [[https://www.dshs.wa.gov/esa/csd-office-refugee-and-immigration-assistance/public-charge-information|Public Charge]] rule does not apply to P-EBT benefits and will not impact immigration status.
+
+[[https://www.dshs.wa.gov/esa/policy-changes-response-covid-19|Summary of DSHS Policy Changes in Response to COVID-19]]
+  * Emergency Supplements (SNAP - Food Assistance) issued on a month-to-month basis with Federal approval - see [[https://www.dshs.wa.gov/sites/default/files/DSHS-SNAP-Emergency-Supplements-Nov2020-Update.pdf|Frequently Asked Questions]]
+  * DSHS temporarily expanded Basic Food eligibility for students of higher education. This includes students who either are determined eligible for work-study, or have an Expected Family Contribution of $0 in the current academic year - rules will continue until 30 days after the COVID-19 Public Health emergency is lifted
+  * The maximum allotments for food assistance were increased by 15% - approved by congress, and will continue through June 30, 2021
+  * Clients considered "Able-Bodied Adults Without Dependents" in all counties, including King County, will be temporarily granted good cause to not be terminated for non-participation due to the Governor’s Safe Start proclamation, which limit available activities. They will still be offered referrals to employment navigators.
+  * DSHS expanded the TANF 60-month Time Limit Extension to support families experiencing hardships due to the COVID-19 emergency
+  * All TANF WorkFirst participants are temporarily exempt from required participation. Clients can choose to continue participation and, to the extent possible, case management will continue, but participation will not be required.
+  * DSHS temporarily suspended TANF WorkFirst sanction reduction or termination penalties. This also suspends the need for a home visit by our staff as part of the sanction process. Clients who closed in sanction will not have to cure sanction before being eligible for the cash grant.
+  * DSHS conducts a TANF Teen Living Assessment, which may include a home visit for all unmarried, minor parents applying for TANF cash assistance, to determine eligibility and offer support to the household. The home visits are suspended until further notice. Specialists are responsible to make their best effort to determine a safe living environment and situation, for the teen and their child, by completing all required assessment screening tools in the office or over the phone.
+  * All TANF WorkFirst Orientations are being conducted via the telephone.
+  * DSHS suspended treatment monitoring and good cause for participation in medical treatment for ABD, participation in substance use assessment and treatment and participation in vocational rehabilitation.
+  * DSHS postponed ABD disability reviews, modified HEN referral incapacity reviews and expanded medical evidence rules for eligibility purposes.
+  * Mental Incapacity Evaluation contracts have been amended to allow for telephonic psychological evaluations.
+  * Benefits will also not close for recipients of Medicaid unless the individual requests their benefits be terminated, the individual is no longer a Washington state resident or the individual is deceased. 
+  * All cash and food Mid-Certification Reports required under WAC 388-418-0011 are waived from November 2020 to June 2021 while households meet all other eligibility requirements.
+  * The Refugee Cash/Medical Assistance eligibility period for clients who became eligible for RCA on or after April 1, 2019 through Aug. 31, 2020 is extended and clients may receive additional months of RCA/RMA benefits not extending beyond April 30, 2021.
+  * ORR has waived the 90-day requirement for completing the Refugee Health Screening. ORIA requests that contracted RHS providers notify ORIA and DOH directly about any post-90-day refugee health screenings.
+  * For clients participating in certain ORR-funded programs, the 60-month eligibility limitation is waived through April 30, 2021. Clients are eligible beyond five years, as long as they have not naturalized.
+  * Funding for rent and utility assistance will also continue to be available through ORIA-funded organizations. 
+
+=== HOUSING ===
+
+**Assistance for Homeowners**
+
+CFPB: [[https://www.consumerfinance.gov/ask-cfpb/if-i-cant-pay-my-mortgage-loan-what-are-my-options-en-268/|What if you can't pay your mortgage loan?]]
+
+DFI: [[https://dfi.wa.gov/homeownership|Mortgage Assistance, Education, and Resources]]
+
+HUD-approved mortgage help: [[https://apps.hud.gov/offices/hsg/sfh/hcc/hcs.cfm?webListAction=search&searchstate=WA|List of Housing Counseling agencies in WA state]]
+
+**Assistance for Renters**
+
+[[https://www.governor.wa.gov/news-media/inslee-extends-eviction-moratorium-0|Rent: Statewide Moratorium]]
+    * Currently extends through March 31, 2021
+
+[[https://fortress.wa.gov/atg/formhandler/ago/COVID19EvictionComplaintForm.aspx|Rent: Moratorium Eviction Complaint form - COVID-19]]
+    * Use this online form to file a complaint with the Office of the Attorney General of Washington State if your landlord violates the rent mmoratorium
+
+[[https://www.commerce.wa.gov/serving-communities/homelessness/landlord-fund-programs/tenancy-preservation/|Rent: Tenancy Preservation Program]]
+    * A court ordered agreement is required to successfully submit a claim application. 
+    * To obtain a court ordered agreement, both landlord and tenant must appear in person at the Superior Court in the rental property’s district and request either of the following:
+    * Stipulated Payment Agreement, or Tenancy Preservation Funding Agreement
+
+[[https://tenantsunion.org/|Tenant's Union]]
+    * Helping renters in Washington state through advocacy, education, outreach, leadership development, and organizing
+
+=== UTILITIES ===
+
+[[https://fortress.wa.gov/com/liheappublic/map.aspx|FIND A LIHEAP AGENCY NEAR YOU (Low Income Home Energy Assistance Program)]]
+ 
+**Snohomish County:**
+
+[[https://www.snopud.com/account/discounts.ashx?p=1188|Snohomish PUD:]]
+    * Year-round income qualified rate discounts of 25 or 50 percent off of PUD electric and water bills to customers based on the total household income limits
+    * Download application from site above, or obtain a printed application at any PUD office, at most senior citizen centers
+    * Or call Customer Service at 425-783-1000 / 877-783-1000
+[[https://svdpnsc.com/help/|St. Vincent de Paul:]] 
+    * Project Pride - one-time Snohomish PUD Energy Assistance
+    * Download application from site above and email to PUDProjectPride@hotmail.com, or call 425-374-1243
+
+[[https://snohomishcountywa.gov/552/Energy-Assistance|Snohomish County Energy Assistance:]]
+    * For low-income applicants who want help with their PUD, PSE, Cascade Natural Gas, Propane, Pellets, and Oil
+    * call (425) 388-3880 - available Monday to Friday, 9 AM - 4 PM 
+    * //Note: If you have received a DISCONNECT NOTICE, we have been informed you will not be shut off. Please contact your heating provider to discuss any concerns.//
+
+[[https://everettwa.gov/DocumentCenter/View/17091/Discounted-rates-PDF?bidId=|Everett City Water Discounted Rates]]
+    * For people 62 and older, or people with a permanent disability (other qualifications apply) - call 425-257-8999
+    * One-time emergency assistance program administered by [[https://ccsww.org/get-help/specialized-services/everettwaterassistance/?gclid=CjwKCAiAkJKCBhAyEiwAKQBCktnkWbtKVXg7vnIWgIwsEjJjPnOWu3b0nEr1fMfBdLxs6y0YyOvQQxoCLUsQAvD_BwE|Catholic Community Services]] for those not eligible for the discount program who have received a shutoff notice
+
+[[https://marysvillewa.gov/340/Utility-Billing|Marysville Utility Billing - Water:]]
+    * Download application from the above site to apply for one-time grants due to hardships
+    * Utility rate and tax discounts for low-income senior and disabled customers - [[https://marysvillewa.gov/1123/Discounts-Rebates|download applications here]]
+
+**General:**
+
+[[https://www.utc.wa.gov/consumers/energy/Pages/energyAssistance.aspx|WA Utilities & Transportation Commission:]] utility assistance
+
+[[https://www.k12.wa.us/about-ospi/press-releases/novel-coronavirus-covid-19-guidance-resources/k%E2%80%9312-internet-access-program|Internet for Students K-12:]]
+    * OSPI is providing funds to Internet Service Providers Comcast, Ziply Fiber, and Presidio to help K-12 children stay connected while attending school remotely
+    * Students and families need to sign up with a participating internet service provider that serves their local community **using the offer code provided by their school district.**
+
+[[https://www.internetessentials.com/covid19|Comcast Internet Essentials]]
+    * Low-cost internet for people receiving SSI, SNAP, TANF, Medicaid, National School Lunch Program, Housing Assistance
+    * Comcast: [[https://corporate.comcast.com/covid-19|COVID-19 Response]]
+
+[[https://www.lifelinesupport.org/|Lifeline Phone Program:]]
+    * Free phones and services for people receiving SNAP, Medicaid, SSI, TANF/Tribal TANF, Federal Public Housing Assistance, Veterans Assistance, Bureau of Indian Affairs (BIA) Assistance, Tribal Head Start, FDPIR
+
+=== SMALL BUSINESS LOANS & GRANTS ===
+
+**National Organizations**
+[[https://www.sbc.senate.gov/public/index.cfm/guide-to-the-cares-act|SBA: Guide to the CARES Act]]
+    * Apply for Paycheck Protection Program, Economic Injury Disaster Loans and Emergency Grants, and Small Business Debt Relief. 
+    * [[https://www.sba.gov/page/guidance-businesses-employers-plan-respond-coronavirus-disease-2019-covid-19?utm_medium=email&utm_source=govdelivery|SBA: Apply for the Paycheck Protection Program]] from February 24th - March 9th, 2021
+    * [[https://home.treasury.gov/policy-issues/cares|US Department of the Treasury: Information about the CARES Act]]
+US Chamber of Commerce: [[https://www.uschamberfoundation.org/disaster-help-desk-business|Disaster Help Desk for Businesses]] 
+    * Call 888-MY-BIZ-HELP (888-692-4943)
+[[https://www.sba.gov/funding-programs/disaster-assistance|U.S. Small Business Association:]] 
+    * Apply for the SBA Disaster Loan for small businesses impacted by COVID-19 - [[https://covid19relief.sba.gov/#/|COVID-19 Economic Injury Disaster Loan (EIDL)]]
+    * [[https://www.sba.gov/funding-programs/loans/coronavirus-relief-options|Coronavirus Relief Options]]
+    * [[https://www.sba.gov/covid-19-funding-sources/index.html|Other COVID-19 Funding Options]]
+[[https://www.nase.org/covid-19|National Association for the Self-Employed:]] Paycheck Protection Program
+
+**Washington Organizations**
+[[https://www.craft3.org/|Craft3:]] Small Business Loans (Pacific Northwest) 
+
+[[http://startup.choosewashingtonstate.com/links/crisis/covid-19-resources/|Startup WA:]] Business Loans and Grants 
+
+LocalSnoco.com: [[https://localsnoco.com/covid-19-business-resources/|COVID-19 Business Resources]]
+    * See also: [[https://www.economicalliancesc.org/|Economic Alliance of Snohomish County]]
+    * More about the R-3 Grant: [[https://www.workforcesnohomish.org/snocogrant/|Workforce Snohomish]]
+
+[[http://edmondschamberfoundation.org/wish-fund/|Edmonds Chamber Foundation:]]
+    * WISH Grant for small businesses affected by disasters
+
+**Resource Lists from Washington Organizations**
+
+[[https://thegsba.org/emergency-resources|GSBA:]] Small Business Emergency Resources and Information
+
+[[https://www.business.wa.gov/site/alias__business/1561/covid-19.aspx|Business.wa.gov:]] COVID-19 Business Resources
+
+[[https://dor.wa.gov/about/business-relief-during-covid-19-pandemic|WA Department of Revenue: Tax Relief]]
+    * Revenue will provide payment extensions, upon request, to businesses in the industries directly impacted by these restrictions.
+        * Please request a payment extension before the due date.
+        * You are still being asked to file your returns by their original due dates even if you are unable to pay.
+    * Revenue will waive interest from February 29, 2020 until the termination of the COVID-19 State of Emergency. At that time, interest will begin accruing on outstanding balances.
+
+**General Small Business Guides for COVID-19**
+
+[[https://coronavirus.wa.gov/whats-open-and-closed/essential-business|WA Essential Businesses Guide]]
+
+[[https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&referrer=&eventid=2216823&sessionid=1&key=50D3E4DFAC40026D6518A91355C476F9&regTag=&sourcepage=registerhttps://kingcounty.gov/depts/health/communicable-diseases/disease-control/novel-coronavirus/retail.aspx|ServSafe Webinar: Preparing for the Coronavirus:]] 
+    * Steps for Foodservice and Restaurant Readiness
+
+==== RESOURCE DATABASES ====
+
+**Resource Lists for Creative Professionals**
+
+[[https://seattlecomposers.org/seattle-/covid-19-resources-for-music-makers/|Seattle Composers Alliance:]] COVID-19 Resources for Music Makers
+
+[[https://artisttrust.org/covid-19-response|Artist Trust:]] COVID-19 Response & Recovery Resources
+
+[[https://www.nwfolklife.org/covid19resourcelist/|NW Folklife:]] COVID-19 Artist & Community Resource List

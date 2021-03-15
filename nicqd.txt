@@ -1,0 +1,20 @@
+{{blog>blog:nicqd?5&firstseconly&readmore&permalink&date&tags}}
+
+{{archive>blog:nicqd?2021-03&[flags]&author=comrade}}
+{{archive>blog:nicqd?2021-04&[flags]&author=comrade}}
+{{archive>blog:nicqd?2021-05&[flags]&author=comrade}}
+{{archive>blog:nicqd?2021-06&[flags]&author=comrade}}
+{{archive>blog:nicqd?2021-07&[flags]&author=comrade}}
+{{archive>blog:nicqd?2021-08&[flags]&author=comrade}}
+{{archive>blog:nicqd?2021-09&[flags]&author=comrade}}
+{{archive>blog:nicqd?2021-10&[flags]&author=comrade}}
+{{archive>blog:nicqd?2021-11&[flags]&author=comrade}}
+{{archive>blog:nicqd?2021-12&[flags]&author=comrade}}
+{{archive>blog:nicqd?2022-01&[flags]&author=comrade}}
+{{archive>blog:nicqd?2022-02&[flags]&author=comrade}}
+
+{{autoarchive>blog:nicqd}}
+
+{{tag>[list of tags]}}
+
+~~TALKPAGE~~

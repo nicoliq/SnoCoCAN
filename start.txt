@@ -1,0 +1,17 @@
+====Welcome to SnoCoCAN!====
+
+This is our grassroots wiki-based collaboration project focused on giving the oppressed a voice in Snohomish County. 
+
+This site is powered by DokuWiki. If you aren't familiar with it, check out the [[https://www.dokuwiki.org/manual|manual]].
+
+
+{{blogfeed>blog:comrade?10|Recent SnoCoCAN Blog Entries}}
+
+----
+
+
+**“You have to act as if it were possible to radically transform the world. And you have to do it all the time.”**  **-Angela Davis**
+
+(A project by the Pink Umbrella Society, 2021) 
+
+
